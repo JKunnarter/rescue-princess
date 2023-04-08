@@ -8,7 +8,7 @@
  	3. Cố gắng không để rơi xuống vực thẳm nếu không sẽ mất mạng
  	4. Ăn item hp để được thêm mạng
 	
-## How to install :
+* How to install :
 	1. Tải SDL_2 , SDL_Image , SDL_mixer , SDL_font
 		+ [SDL2](https://github.com/libsdl-org/SDL/releases/download/release-2.26.5/SDL2-devel-2.26.5-mingw.tar.gz)
 		+ [SDL2_image](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.6.3-mingw.tar.gz)

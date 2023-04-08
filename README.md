@@ -16,7 +16,7 @@
 		+ [SDL2_ttf](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-2.20.2.tar.gz)
 	2. Setting in codeblocks
 	  	+ Project -> Build options -> Linker settings : trong mục Other linker options gắn -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf 
-		+ Project -> Build options -> Search directories : trong mục compiler ta add những cái sau ![image](https://user images.githubusercontent.com/112330953/230707781-f633e637-31a5-497d-a49e-c94888532c88.png)
+		+ Project -> Build options -> Search directories : trong mục compiler ta add những cái sau ![image](https://user-images.githubusercontent.com/112330953/230707956-d9a0dfb1-85b5-46e2-90a5-14101773f18c.png)
 		+ Project -> Build options -> Search directories : trong mục linker ta add những cái sau ![image](https://user-images.githubusercontent.com/112330953/230707821-56055c9b-3f6f-4a2a-8794-e703be87741d.png)
 
 
